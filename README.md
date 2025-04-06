@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Galactic Cargo Management System (GCMS)** is a logistics management tool designed to efficiently handle and organize cargo in a galaxy-wide shipping network. This system employs advanced data structures, including AVL trees, to track and manage cargo bins, objects, and their capacities. The system supports efficient insertion, deletion, and searching of cargo based on various attributes like bin capacity, object size, and cargo color.
+The **Galactic Cargo Allocater** is a logistics management tool designed to efficiently handle and organize cargo in a galaxy-wide shipping network. This system employs advanced data structures, including AVL trees, to track and manage cargo bins, objects, and their capacities. The system supports efficient insertion, deletion, and searching of cargo based on various attributes like bin capacity, object size, and cargo color.
 
 ## Features
 
