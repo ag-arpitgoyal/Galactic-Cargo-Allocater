@@ -1,4 +1,4 @@
-# Galactic Cargo Management System (GCMS)
+# Galactic Cargo Allocater
 
 ## Overview
 
